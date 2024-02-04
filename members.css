@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-family: 'Fredericka the Great', serif;
+}
+
+body{
+    background-color: black;
+}
+
+.img{
+    height: 200px;
+}
+table{
+   
+    border: 1px solid rgb(58, 18, 18);
+    border-collapse: collapse;
+    text-align: center;
+  }
+  th, td {
+    padding: 15px;
+  }
+.tab{
+    color: aliceblue;
+    display: block;
+    margin: top;
+    
+}

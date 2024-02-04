@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-family: 'Fredericka the Great', serif;
+}
+
+body{
+    background-color: black;
+}
+
+P{
+    color: aliceblue;   
+    text-align: center;
+    font-size: larger;
+    font-family: 'Anonymous Pro', monospace;   
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+#img{
+    display: block;
+    margin: auto;
+}
+
+#end{
+    font-size: small;
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-family: 'Fredericka the Great', serif;
+}
